@@ -1,4 +1,4 @@
-var url = "http://www.google.com";
+var url = "https://www.google.com";
 var ua = navigator.userAgent.toLocaleLowerCase();
 if (ua.includes("google")) {
 
